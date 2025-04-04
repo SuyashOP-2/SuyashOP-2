@@ -1,10 +1,10 @@
 <h1 align="center">Hello World! I'm Suyash Shirtar 👋🏼</h1>
-<h3 align="center">Full-Stack Developer & AI/ML Enthusiast</h3>
+<h1 align="center">Full-Stack Developer & AI/ML Enthusiast</h3>
 
 <div align="center">
   <table border="0" cellpadding="10">
     <tr>
-      <td style="font-size: 16px; line-height: 1.8; min-width: 300px; max-width: 600px;">
+      <td style="font-size: 18px; line-height: 1.8; min-width: 300px; max-width: 600px;">
         🛜 <strong>Currently building</strong> my own projects and web solutions with AI.<br>
         👨🏼‍🎓 <strong>Passionate</strong> about Full-Stack Development, AI, and Machine Learning.<br>
         👨🏼‍💻 <strong>Coding</strong> for 5+ years, crafting innovative web applications.<br>
