@@ -67,8 +67,10 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuyashOP-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SuyashOP-2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashOP-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
