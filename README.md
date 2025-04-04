@@ -1,8 +1,8 @@
+# Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
+
 <table>
   <tr>
     <td>
-
-<h1>Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼</h1>
 
 🛜 Currently building my own projects and web solutions with AI.<br>
 👨🏼‍🎓 Passionate about Full-Stack Development, AI, and Machine Learning.<br>
@@ -16,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 
 # 💻 Tech Stack:
 
