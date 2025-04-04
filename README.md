@@ -1,4 +1,4 @@
-![Banner](https://img.shields.io/badge/Code%20Is%20Poetry-%231E1E1E?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
+![Coding Banner](https://images.unsplash.com/photo-1581090700227-1e8eaf9d2d9d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
 
 # Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
 
