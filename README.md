@@ -1,4 +1,4 @@
-![Code Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=800&lines=Hey+There!+👋;I'm+a+passionate+Developer;I+love+building+cool+things+with+code!)
+![Banner](https://img.shields.io/badge/Code%20Is%20Poetry-%231E1E1E?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
 
 # Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
 
