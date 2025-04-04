@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! I'm Suyash Shirtar 👋🏼</h1>
-<h1 align="center">Full-Stack Developer & AI/ML Enthusiast</h3>
+# Hello World! I'm Suyash Shirtar 👋🏼
+# Full-Stack Developer & AI/ML Enthusiast
 
 <div align="center">
   <table border="0" cellpadding="10">
