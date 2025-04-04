@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![Code Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=800&lines=Hey+There!+👋;I'm+a+passionate+Developer;I+love+building+cool+things+with+code!)
 
 # Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
 
