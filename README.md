@@ -1,4 +1,4 @@
-![Coding Banner](https://images.unsplash.com/photo-1581090700227-1e8eaf9d2d9d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
 
