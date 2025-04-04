@@ -1,9 +1,21 @@
-![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<table>
+  <tr>
+    <td>
 
-# Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
+<h1>Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼</h1>
 
-🛜 Currently building my own projects and web solutions with AI.<br>👨🏼‍🎓 Passionate about Full-Stack Development, AI, and Machine Learning.<br>👨🏼‍💻 Coding for 5+ years, crafting innovative web applications.<br>🚀 Competitive programmer and open-source contributor.<br>🎬 Exploring new tech and sharing knowledge.
+🛜 Currently building my own projects and web solutions with AI.<br>
+👨🏼‍🎓 Passionate about Full-Stack Development, AI, and Machine Learning.<br>
+👨🏼‍💻 Coding for 5+ years, crafting innovative web applications.<br>
+🚀 Competitive programmer and open-source contributor.<br>
+🎬 Exploring new tech and sharing knowledge.
 
+</td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
