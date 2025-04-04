@@ -1,21 +1,22 @@
-# Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
+<h1 align="center">Hello World! I'm Suyash Shirtar 👋🏼</h1>
+<h3 align="center">Full-Stack Developer & AI/ML Enthusiast</h3>
 
-<table>
-  <tr>
-    <td>
-
-🛜 Currently building my own projects and web solutions with AI.<br>
-👨🏼‍🎓 Passionate about Full-Stack Development, AI, and Machine Learning.<br>
-👨🏼‍💻 Coding for 5+ years, crafting innovative web applications.<br>
-🚀 Competitive programmer and open-source contributor.<br>
-🎬 Exploring new tech and sharing knowledge.
-
-</td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td style="font-size: 16px; line-height: 1.8; min-width: 300px; max-width: 600px;">
+        🛜 <strong>Currently building</strong> my own projects and web solutions with AI.<br>
+        👨🏼‍🎓 <strong>Passionate</strong> about Full-Stack Development, AI, and Machine Learning.<br>
+        👨🏼‍💻 <strong>Coding</strong> for 5+ years, crafting innovative web applications.<br>
+        🚀 <strong>Competitive programmer</strong> and open-source contributor.<br>
+        🎬 <strong>Exploring new tech</strong> and sharing knowledge.
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 # 💻 Tech Stack:
