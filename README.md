@@ -1,5 +1,5 @@
 # Hello World! I'm Suyash Shirtar 👋🏼
-# Full-Stack Developer & AI/ML Enthusiast
+# Full-Stack Developer & AI/ML Enthusiast 🧑‍💻
 
 <div>
   <table border="0" cellpadding="10">
