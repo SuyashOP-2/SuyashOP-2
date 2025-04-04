@@ -1,7 +1,8 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World! I'm Suyash Shirtar, a Full-Stack Developer & AI/ML Enthusiast 👋🏼
+
+🛜 Currently building my own projects and web solutions with AI.<br>👨🏼‍🎓 Passionate about Full-Stack Development, AI, and Machine Learning.<br>👨🏼‍💻 Coding for 5+ years, crafting innovative web applications.<br>🚀 Competitive programmer and open-source contributor.<br>🎬 Exploring new tech and sharing knowledge.
 
 
 # 💻 Tech Stack:
