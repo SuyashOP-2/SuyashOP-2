@@ -4,7 +4,7 @@
 <div>
   <table border="0" cellpadding="10">
     <tr>
-      <td style="font-size: 18px; line-height: 1.8; min-width: 300px; max-width: 600px;">
+      <td style="font-size: 24px; line-height: 1.8; min-width: 300px; max-width: 600px;">
         🛜 <strong>Currently building</strong> my own projects and web solutions with AI.<br>
         👨🏼‍🎓 <strong>Passionate</strong> about Full-Stack Development, AI, and Machine Learning.<br>
         👨🏼‍💻 <strong>Coding</strong> for 5+ years, crafting innovative web applications.<br>
