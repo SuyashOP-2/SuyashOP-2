@@ -1,7 +1,7 @@
 # Hello World! I'm Suyash Shirtar 👋🏼
 # Full-Stack Developer & AI/ML Enthusiast
 
-<div align="center">
+<div>
   <table border="0" cellpadding="10">
     <tr>
       <td style="font-size: 18px; line-height: 1.8; min-width: 300px; max-width: 600px;">
