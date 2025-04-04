@@ -10,6 +10,7 @@
         👨🏼‍💻 <strong>Coding</strong> for 5+ years, crafting innovative web applications.<br>
         🚀 <strong>Competitive programmer</strong> and open-source contributor.<br>
         🎬 <strong>Exploring new tech</strong> and sharing knowledge.
+        📬 Want to collaborate or chat tech? Shoot me an email at **suyashsshirtar2@gmail.com**.  
       </td>
       <td>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnOWR1MTU1aGUwM3ZtamRzejVnYzVkam5mNWU1ZTRkOW4wanNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding GIF" />
